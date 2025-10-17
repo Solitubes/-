@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">待办事项</string>
+    <string name="add_todo">添加待办事项</string>
+    <string name="edit_todo">编辑待办事项</string>
+    <string name="todo_title">标题</string>
+    <string name="todo_description">描述</string>
+    <string name="todo_due_date">截止日期</string>
+    <string name="todo_repeat_type">重复类型</string>
+    <string name="repeat_once">一次性</string>
+    <string name="repeat_daily">每日</string>
+    <string name="repeat_weekly">每周</string>
+    <string name="save">保存</string>
+    <string name="cancel">取消</string>
+    <string name="delete">删除</string>
+    <string name="mark_completed">标记完成</string>
+    <string name="mark_incomplete">标记未完成</string>
+    <string name="no_todos">暂无待办事项</string>
+    <string name="add_first_todo">点击 + 按钮添加第一个待办事项</string>
+    <string name="notification_title">待办事项提醒</string>
+    <string name="notification_content">您有一个待办事项即将到期</string>
+</resources>
